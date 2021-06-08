@@ -17,8 +17,8 @@ The first game created with SpriteKit.
 - removeFromParent
  ## Project Screen Shots
 
-<img src="Screen1.png" width="200"> <img src="Screen2.png" width="200">
-<img src="Screen3.png" width="200"> <img src="Screen4.png" width="200"> 
+<img src="SpriteGame/Screen1.png" width="350"> <img src="SpriteGame/Screen2.png" width="350">
+<img src="SpriteGame/Screen3.png" width="350"> <img src="SpriteGame/Screen4.png" width="350"> 
 ## More features soon 
 - fixed levels 
 - label if wins
